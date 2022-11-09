@@ -14,7 +14,7 @@ author:
   email:             arsen.djurdjev@live.com
 
 # Gems
-theme: lanyon
+
 plugins:
   - jekyll-paginate
   - jekyll-feed

@@ -5,7 +5,6 @@ title: Slideshow
 
 # <center>Stable Diffusion <strong>highlights</strong></center>
 
-{% youtube "https://www.youtube.com/watch?v=LrJJy6ZlXVc" %}
 
 ![highlights](/public/images/rick1.png)
 * <center><p class="message"> MVP (most valuable picture) of the month </p></center>

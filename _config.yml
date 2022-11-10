@@ -12,6 +12,8 @@ author:
   name:              Arsen Djurdjev
   url:               https://instagram.com/arsendjurdjev
   email:             arsen.djurdjev@live.com
+  instagram:         https://instagram.com/arsendjurdjev
+  youtube:           https://www.youtube.com/Krupanjac1337
 
 # Gems
 
@@ -19,7 +21,7 @@ plugins:
   - jekyll-paginate
   - jekyll-feed
 # Custom vars
-version:             1.1.0
+version:             1.0.0
 google_analytics_id: #UA-XXXX-Y
 
 

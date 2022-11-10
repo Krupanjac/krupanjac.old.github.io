@@ -5,6 +5,9 @@
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
+    <div class="img-hover-zoom img-hover-zoom--colorize">
+  <marquee behavior="scroll" direction = "left" loop="1"><img src="/public/mstile-150x150.png" alt="Another Image zoom-on-hover effect"></marquee>
+  </div>
     <p>{{ site.description }}</p>
   </div>
 
@@ -25,8 +28,6 @@
       {% endif %}
     {% endfor %}
 
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
     <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
   </nav>
 

@@ -18,7 +18,6 @@ author:
 plugins:
   - jekyll-paginate
   - jekyll-feed
-  - jekyll-youtube
 # Custom vars
 version:             1.1.0
 google_analytics_id: #UA-XXXX-Y

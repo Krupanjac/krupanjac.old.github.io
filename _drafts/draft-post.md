@@ -1,38 +1,23 @@
 ---
-layout: page
-title: Slideshow
+layout: post
+title: Testing branch
+
 ---
 
-# <center>Stable Diffusion <strong>highlights</strong></center>
+
+Prompt   | image                           | Model | Guidance Scale | Seed  | Steps  |
+------- | ------------------------------------- | -------- | ----------- | ---------- | ------------|
+Rick Sanchez smoking blunt  | <img src="/public/images/rick2.png" alt="Rick1"> | v1.4    | 7.5    | Midjourney    | 50    |
+weed, cartoon, 4k | <img src="/public/images/weed1.png" alt="Weed1">   | v1.4    | 7.5    | Midjourney    | 50    |
 
 
-![highlights](/public/images/rick1.png)
-* <center><p class="message"> MVP (most valuable picture) of the month </p></center>
-
-<center><details>
-<summary>prompt</summary>
-<p class="message">
-<strong>model</strong> = stable-diffusion</p>
-<p class="message">
-<strong>model version</strong> = v1.5
-</p>
-<p class="message">
-<strong>guidance scale</strong> = 7.5
-</p>
-<p class="message">
-<strong>seed</strong> = 7462918074035488
-</p>
-<p class="message">
-<strong>steps</strong> = 50
-</p>
-<p class="message">
-<strong>image</strong> = private
-</p>
-</details></center>
 
 
-## <center><strong>click on spoiler to open next image</strong></center>
 
+
+```
+!click on spoiler to open next image!
+```
 <center><details>
 <summary>Rick Sanchez</summary>
 <img src="/public/images/rick2.png" alt="Rick1">

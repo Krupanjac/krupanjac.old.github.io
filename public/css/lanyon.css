@@ -212,7 +212,7 @@ transform: scale(2);
   
   /*change the number below to scale to the appropriate size*/
   .thumbnail2:hover {
-  transform: scale(4);
+  transform: scale(8);
   
   }
 

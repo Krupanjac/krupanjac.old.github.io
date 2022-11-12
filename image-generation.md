@@ -67,6 +67,15 @@ Rick Sanchez smoking a joint, detailed,very well done, 4k    | v1.5    | 7.5    
       <td>50</td>
       <td><img src="https://turisti.rs/wp-content/uploads/2020/04/Krupanj.jpg" class="thumbnail2"/> - 0.6</td>
     </tr>
+    <tr>
+      <td>realistic serbian eagle, vivid colors</td>
+      <td><img src="/public/images/grb1.png" class="thumbnail2"/></td>
+      <td>v1.5</td>
+      <td>7.5</td>
+      <td>1539920966628064</td>
+      <td>50</td>
+      <td><img src="/public/images/Arma_Srbija_Amblem_v3_Dec_2018.png" class="thumbnail2"/> - 0.75</td>
+    </tr>
   </tbody>
 </table>
 

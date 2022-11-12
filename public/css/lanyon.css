@@ -151,6 +151,21 @@ h1, h2, h3, h4, h5, h6 {
   transform: scale(1.1);
 }
 
+/* Blur-zoom Container */
+.img-hover-zoom--blur img {
+  transition: transform 1s, filter 2s ease-in-out;
+  filter: blur(2px);
+  transform: scale(1.2);
+}
+
+/* The Transformation */
+.img-hover-zoom--blur:hover img {
+  filter: blur(0);
+  transform: scale(1);
+}
+
+
+
 
 /* divider classes*/
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Image <strong>Generation</strong>
+title: Image Generation
 ---
 
 ## <center>Stable Diffusion <strong>highlights</strong></center>
@@ -27,24 +27,45 @@ Rick Sanchez smoking a joint, detailed,very well done, 4k    | v1.5    | 7.5    
       <th>Guidance Scale</th>
       <th>Seed</th>
       <th>Steps</th>
+      <th>ref-image</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Rick Sanchez smoking blunt</td>
-      <td><img src="/public/images/rick2.png" class="thumbnail"/></td>
+      <td><img src="/public/images/rick2.png" class="thumbnail2"/></td>
       <td>v1.4</td>
       <td>7.5</td>
       <td>Midjourney</td>
       <td>50</td>
+      <td>false</td>
     </tr>
     <tr>
       <td>weed, cartoon, 4k</td>
-      <td><img src="/public/images/weed1.png" class="thumbnail"/></td>
+      <td><img src="/public/images/weed1.png" class="thumbnail2"/></td>
       <td>v1.4</td>
       <td>7.5</td>
       <td>Midjourney</td>
       <td>50</td>
+      <td>false</td>
+    </tr>
+    <tr>
+      <td>cyberpunk style</td>
+      <td><img src="/public/images/kru_rand1.png" class="thumbnail2"/></td>
+      <td>v1.5</td>
+      <td>7.5</td>
+      <td>6105820668879509</td>
+      <td>50</td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Krupanj_008.jpg" class="thumbnail2"/> - 0.5</td>
+    </tr>
+      <tr>
+      <td>cyberpunk style, a church in town of Krupanj</td>
+      <td><img src="/public/images/kru_rand2.png" class="thumbnail2"/></td>
+      <td>v1.5</td>
+      <td>12.5</td>
+      <td>1806871806370474</td>
+      <td>50</td>
+      <td><img src="https://turisti.rs/wp-content/uploads/2020/04/Krupanj.jpg" class="thumbnail2"/> - 0.6</td>
     </tr>
   </tbody>
 </table>
